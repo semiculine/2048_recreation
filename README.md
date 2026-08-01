@@ -42,7 +42,7 @@ Ensure you have Python 3.x installed on your system.
 ### Installation & Execution
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/semiculine/2048_recreation.git](https://github.com/semiculine/2048_recreation.git)
+   git clone https://github.com/semiculine/2048_recreation.git
    ```
 
 2. Navigate into project directory:
